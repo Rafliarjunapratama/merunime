@@ -1,0 +1,36 @@
+{
+  "license": "0BSD",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~53.0.22",
+    "expo-status-bar": "~2.2.3",
+    "react": "19.0.0",
+    "react-native": "0.79.6",
+    "expo-av": "~15.1.7",
+    "expo-font": "~13.3.2",
+    "expo-image": "~2.4.0",
+    "@expo/vector-icons": "^14.1.0",
+    "react-native-paper": "4.9.2",
+    "expo-linear-gradient": "~14.1.5",
+    "react-native-screens": "~4.11.1",
+    "@react-navigation/native": "*",
+    "react-native-linear-gradient": "*",
+    "@react-navigation/native-stack": "*",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-webview": "13.13.5",
+    "react-native-orientation-locker": "*",
+    "expo-screen-orientation": "~8.1.7",
+    "expo-navigation-bar": "~4.2.7",
+    "react-native-fast-image": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
