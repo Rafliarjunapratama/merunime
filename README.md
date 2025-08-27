@@ -15,7 +15,7 @@ Tujuan pembuatan ini adalah untuk **belajar web scraping, API, dan pengembangan 
 
 ---
 
-## 🖼️ Tampilan Halaman Depan Website
+## 🖼️ Tampilan Halaman Depan Aplikasi 
 
 <p align="center">
   <img src="https://github.com/Rafliarjunapratama/merunime/blob/main/assets/gambar/Screenshot_2025-08-27-17-13-06-20_f73b71075b1de7323614b647fe394240.jpg" width="200" height="300" style="margin-right:30px;" />
@@ -25,7 +25,7 @@ Tujuan pembuatan ini adalah untuk **belajar web scraping, API, dan pengembangan 
 
 ---
 
-## 🖼️ Tampilan Di Dalam Website
+## 🖼️ Tampilan Di Dalam Aplikasi 
 
 <p align="center">
   <img src="https://github.com/Rafliarjunapratama/merunime/blob/main/assets/gambar/Screenshot_2025-08-27-17-13-40-30_f73b71075b1de7323614b647fe394240.jpg" width="200" height="300" style="margin-right:30px;" />
