@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "anime",
-    "slug": "snack-1f376bac-747d-487b-827d-889a34d50db6",
+    "slug": "anime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,18 +13,23 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.username.anime"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.username.anime"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "aplikasi streaming anime"
+    "extra": {
+      "eas": {
+        "projectId": "bb9d0a1792ed399ac0d943aac34fecc52386072a"
+      }
+    }
   }
 }
