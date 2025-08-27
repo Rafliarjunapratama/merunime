@@ -1,5 +1,5 @@
 # Merunime Aplikasi Streaming Anime / Komik 
-<b>!!!! Disclaimer Init Hanya Untuk Pembelajaraan Tidak ada Kegiatan Komersial Sama Sekali !!!</b>
+<b>!!!! Disclaimer Ini Hanya Untuk Pembelajaraan Tidak ada Kegiatan Komersial Sama Sekali !!!</b>
 <p>Merunime Aplikasi streaming anime/komik gratis. Merunime mengambil scrapt dari otakudesu,zerochan dll untuk akses github dan website nya <a href="https://otakudesu-apifree.up.railway.app/">Website Scraper</a> dan  <a href="https://github.com/Rafliarjunapratama/otakudesu">Github Scraping</a></p>
 <b><h1>#Tampilan Halaman Depan Webiste</h1></b>
 <p align="center">
@@ -25,5 +25,5 @@
 </p>
 
 
-<b>!!!! Disclaimer Init Hanya Untuk Pembelajaraan Tidak ada Kegiatan Komersial Sama Sekali !!!</b>
+<b>!!!! Disclaimer Ini Hanya Untuk Pembelajaraan Tidak ada Kegiatan Komersial Sama Sekali !!!</b>
 
